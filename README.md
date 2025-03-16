@@ -59,15 +59,3 @@
 🚀 More updates coming soon… Stay connected!  
 
 ---
-
-### **✨ What’s New in This Version?**
-✔ **Profile Picture with a Circular Frame & Neon Glow**  
-✔ **Only the Introduction is Animated** (No unnecessary movement)  
-✔ **Clean and Professional Layout**  
-✔ **Clickable Social Media Badges**  
-✔ **GitHub Stats and Streaks**  
-
----
-
-🔥 **Now, your GitHub profile will look clean, professional, and eye-catching!** 🚀   
-Let me know if you need any more improvements! 😊🔥
