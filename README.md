@@ -1,6 +1,7 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/182197942?v=4&size=64" alt="Basavarajsing Profile Photo" width="180" style="border-radius: 50%; border: 5px solid #00F7FF; box-shadow: 0px 0px 15px cyan;">
+  <img src="https://github.com/YourUsername/YourRepository/blob/main/profile.jpg?raw=true
+" alt="Basavarajsing Profile Photo" width="180" style="border-radius: 50%; border: 5px solid #00F7FF; box-shadow: 0px 0px 15px cyan;">
 </p>
 
 <!-- Typing Animation -->
