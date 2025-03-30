@@ -30,6 +30,7 @@
 
 ## **🎮 Featured Project**
 🔹 **[Fall Fruits Catcher Game](https://github.com/Basavarajsing/Fallstar.git)**  
+🔹 **[Agrixpert-AI-driven solutions to farmers](
 🔹 *More exciting projects coming soon... Stay tuned!*
 
 ---
