@@ -38,9 +38,11 @@
 - Improved **supply chain transparency** by eliminating middlemen.  
 
 ### 🖥️ **MERN Intern | WebStack Academy (WSA)**  
-🌐 Virtual | Aug 2025 – Present  
-- Developing apps using **MERN stack with REST APIs and authentication**.  
-- Implementing **CRUD features** for scalable, production-ready solutions.  
+🌐 Virtual | Aug 2025 – Oct 2025  
+- Developed apps using **MERN stack with REST APIs and authentication**.  
+- Implemented **CRUD features** for scalable, production-ready solutions.
+- Implemented **HOMELYHUB** App using MERN Stcak.
+   
 
 ---
 
@@ -60,6 +62,9 @@
 - Prototyped a **farmer marketplace** using React.js for rural commerce.  
 
 🔹 **[Fall Fruits Catcher Game](https://github.com/Basavarajsing/Fallstar.git)** – Game Project  
+
+  **[Multemotion (Deep Learning based)](https://github.com/Basavarajsing/multemotion.git)** 
+  - Developed a **Multimodal Emotion detection using Text,Vooce,Webcam** using Deep Learning Model and Alogorithms.
 
 ---
 
