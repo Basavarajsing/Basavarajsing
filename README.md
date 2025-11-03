@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 - 🎓 **Student** at Siddaganga Institute of Technology, pursuing **B.E in Information Science & Engineering (CGPA: 9.0/10)**  
-- 💻 **Frontend & Full-Stack Developer** skilled in **MERN stack, REST APIs, and scalable apps**  
+- 💻 **Full-Stack Developer** skilled in **MERN stack, REST APIs, and scalable apps**  
 - 📹 **YouTuber** at [Karunadu Vibes](https://youtube.com/@Karunaduvibes), spreading positivity & culture 🌍  
 - 🚀 Currently **working on impactful projects** and **exploring advanced technologies**  
 
