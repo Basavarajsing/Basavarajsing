@@ -64,7 +64,7 @@
 🔹 **[Fall Fruits Catcher Game](https://github.com/Basavarajsing/Fallstar.git)** – Game Project  
 
   **[Multemotion (Deep Learning based)](https://github.com/Basavarajsing/multemotion.git)** 
-  - Developed a **Multimodal Emotion detection using Text,Voice,Webcam** using Deep Learning Model and Alogorithms.
+  - Developed a **Multimodal Emotion detection using Text,Voice,Webcam** using Deep Learning Model and Algorithms.
 
 ---
 
