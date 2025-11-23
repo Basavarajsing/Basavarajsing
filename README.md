@@ -4,7 +4,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Basavarajsing/Basavarajsing/refs/heads/main/new%20photo.jpg" alt="Basavarajsing Profile Photo" width="180" style="border-radius: 50%; border: 5px solid #00F7FF; box-shadow: 0px 0px 15px cyan;">
+  <img src="https://github.com/account" alt="Basavarajsing Profile Photo" width="180" style="border-radius: 50%; border: 5px solid #00F7FF; box-shadow: 0px 0px 15px cyan;">
 </p>
 
 <!-- Typing Animation -->
