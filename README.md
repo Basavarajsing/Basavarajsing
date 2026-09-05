@@ -15,7 +15,7 @@
 ---
 
 ## 👋 About Me
-- 🎓 **Student** at Siddaganga Institute of Technology, pursuing **B.E in Information Science & Engineering (CGPA: 9.0/10)**  
+- 🎓 **Student** at Siddaganga Institute of Technology, pursuing **B.E in Information Science & Engineering (CGPA: 9.03/10)**  
 - 💻 **Full-Stack Developer** skilled in **MERN stack, REST APIs, and scalable apps**  
 - 📹 **YouTuber** at [Karunadu Vibes](https://youtube.com/@Karunaduvibes), spreading positivity & culture 🌍  
 - 🚀 Currently **working on impactful projects** and **exploring advanced technologies**  
@@ -70,16 +70,18 @@
 
 ## 🎓 Education  
 🎓 **B.E. in Information Science and Engineering**  
-Siddaganga Institute of Technology (SIT), Tumakuru | **2025**  
-- **CGPA:** 9.0 / 10  
+Siddaganga Institute of Technology (SIT), Tumakuru | **2027**  
+- **CGPA:** 9.03 / 10  
 
 ---
 
 ## 🏆 Achievements  
+- 🏆 **Scholar of VIDYAPOSHAK**
 - 🥈 **2nd Place – PITCHATHON by GeeksForGeeks** (Cash Prize: ₹3000)  
 - ⭐ **Top 1000 – SBI Youth Innovators Ideathon**  
 - 🎯 **4th Place – Innoventure Hackathon**  
-- 🔥 **Top 5000 Teams – Hack With India**  
+- 🔥 **Top 5000 Teams – Hack With India**
+
 
 ---
 
