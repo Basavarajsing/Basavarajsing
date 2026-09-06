@@ -46,25 +46,7 @@
 
 ---
 
-## 🎮 Featured Projects  
 
-🔹 **[Expense Tracker (MERN Stack)]()** – Full Stack Developer  
-- Built an **expense management system** using React, Node.js, Express.js & MongoDB.  
-- Features: add/manage expenses, generate reports, charts, and exports.  
-
-🔹 **[Agrixpert – Smart Farming Platform](https://github.com/Basavarajsing/Agrixpert.git)** – Frontend Developer  
-- Developed a **responsive farming app** using HTML, CSS & JavaScript.  
-
-🔹 **[Waste-to-Wealth]()** – Full Stack Developer  
-- Created a **donation/recycling platform** with PHP & MySQL, including dashboards.  
-
-🔹 **[Farm Flow Prototype]()** – Founder & Designer  
-- Prototyped a **farmer marketplace** using React.js for rural commerce.  
-
-🔹 **[Fall Fruits Catcher Game](https://github.com/Basavarajsing/Fallstar.git)** – Game Project  
-
-  **[Multemotion (Deep Learning based)](https://github.com/Basavarajsing/multemotion.git)** 
-  - Developed a **Multimodal Emotion detection using Text,Voice,Webcam** using Deep Learning Model and Algorithms.
 
 ---
 
